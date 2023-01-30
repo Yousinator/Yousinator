@@ -15,12 +15,12 @@
 
 <br />
 
-> 🔭 I’m currently studying AI and Data Science. 
-> 🌱 I’m currently learning Machine Learning software development.
-> 📫 How to reach me: Twitter: @Overpowered_OG.
-> ⚡ Fun fact: "There is always one more bug to fix."
-> 💼 any freelance work? do reach, [email](y.omusabeh@gmail.com) :)
-> 💬 ask me about anything, i am happy to help;
+- 🔭 I’m currently studying AI and Data Science. 
+- 🌱 I’m currently learning Machine Learning software development.
+- 📫 How to reach me: Twitter: @Overpowered_OG.
+- ⚡ Fun fact: "There is always one more bug to fix."
+- 💼 any freelance work? do reach, [email](y.omusabeh@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
