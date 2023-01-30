@@ -17,8 +17,8 @@
 
 - 🔭 I’m currently studying AI and Data Science. 
 - 🌱 I’m currently learning Machine Learning software development.
-- 📫 How to reach me: Twitter: @Overpowered_OG.
-- ⚡ Fun fact: "There is always one more bug to fix."
+- "There is always one more bug to fix."
+- " printf(" Code is poetry") "
 - 💼 any freelance work? do reach, [email](y.omusabeh@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-> Python       10 hrs 22 mins  ███████████████████████     90.43 %
-> Java         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   5.90 %
-> C Lang       1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   4.06 %
+> Python       10 hrs          ███████████████████████     90.00 %
+> Java         1 hr            █                           5.00 %
+> C Lang       1 hr            █                           4.00 %
 ```
