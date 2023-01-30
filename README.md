@@ -1,5 +1,7 @@
-### Hi there 👋
-
+- 🔭 I’m currently working on Machine Learning software development.
+- 🌱 I’m currently learning AI abd Data Science.
+- 📫 How to reach me: Twitter: @Overpowered_OG.
+- ⚡ Fun fact: "There is always one more bug to fix.
 <!--
 **Yousinator/Yousinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
