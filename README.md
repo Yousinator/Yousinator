@@ -4,20 +4,23 @@
   </a>
 </h1>
 
-<div href="https://www.instagram.com/y_musabeh/" align="center">
-  <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="22px">
+<div align="center">
+  <img href="https://www.instagram.com/y_musabeh/" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="22px">
+  <img href="https://discord.gg/XTW52Kt" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" width="22px">
+  <img href="https://twitter.com/OverpoweredOG_" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" width="22px">
+  <img href="https://www.linkedin.com/in/yousef-musabeh-381081242/" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px">
 </div>
 
-<div href="https://discord.gg/XTW52Kt" align="center">
-  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" width="22px">
+<div  align="center">
+  
 </div>
 
-<div href="https://twitter.com/OverpoweredOG_" align="center">
-  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" width="22px">
+<div  align="center">
+  
 </div>
 
-<div href="https://www.linkedin.com/in/yousef-musabeh-381081242/" align="center">
-  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px">
+<div  align="center">
+  
 </div>
 
 
