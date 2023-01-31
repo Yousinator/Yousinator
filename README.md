@@ -5,7 +5,7 @@
 </h1>
 
 <a href="https://www.instagram.com/y_musabeh/">
-  <img align="" alt="Yousinator's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="center" alt="Yousinator's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
   <img align="" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -36,7 +36,7 @@
 <code><img height="20" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></code>
 <code><img height="20" src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></code>
-<code><img height="20" src="https://img.shields.io/badge/C-Language%20-blue"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
