@@ -38,7 +38,7 @@
 **My Languages (I only speak code language):**  
 
 <code><img height="30" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code>
-<code><img height="30" src="https://image.pngaaa.com/282/619282-middle.png"></code>
+<code><img height="30" width="30" src="https://image.pngaaa.com/282/619282-middle.png"></code>
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>
 <code><img height="30" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png"></code>
 
