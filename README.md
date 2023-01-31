@@ -4,9 +4,9 @@
   </a>
 </h1>
 
-<a href="https://www.instagram.com/y_musabeh/">
-  <img align="left" alt="Yousinator's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+<div href="https://www.instagram.com/y_musabeh/" align="center">
+  <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="22px">
+</div>
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -17,7 +17,10 @@
   <img align="left" alt="Yousinator's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
+
 <br />
+
 
 - 🔭 I’m studying AI and Data Science. 
 - 🌱 I’m learning Machine Learning software development.
