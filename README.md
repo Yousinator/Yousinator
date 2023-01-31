@@ -5,10 +5,10 @@
 </h1>
 
 <div align="center">
-  <img href="https://www.instagram.com/y_musabeh/" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" width="22px">
-  <img href="https://discord.gg/XTW52Kt" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" width="22px">
-  <img href="https://twitter.com/OverpoweredOG_" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" width="22px">
-  <img href="https://www.linkedin.com/in/yousef-musabeh-381081242/" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px">
+  <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" href="https://www.instagram.com/y_musabeh/" width="22px">
+  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" href="https://discord.gg/XTW52Kt" width="22px">
+  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" href="https://twitter.com/OverpoweredOG_" width="22px">
+  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" href="https://www.linkedin.com/in/yousef-musabeh-381081242/" width="22px">
 </div>
 
 <div  align="center">
