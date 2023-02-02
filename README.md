@@ -4,11 +4,17 @@
   </a>
 </h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" href="https://www.instagram.com/y_musabeh/" width="22px">
-  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" href="https://discord.gg/XTW52Kt" width="22px">
-  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" href="https://twitter.com/OverpoweredOG_" width="22px">
-  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" href="https://www.linkedin.com/in/yousef-musabeh-381081242/" width="22px">
+<div align="center" href="https://www.instagram.com/y_musabeh/">
+  <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"  width="22px">
+</div>
+<div align="center" href="https://discord.gg/XTW52Kt">
+  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" width="22px">
+</div>
+<div align="center" href="https://twitter.com/OverpoweredOG_">
+   <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" width="22px">
+</div>
+<div align="center" href="https://www.linkedin.com/in/yousef-musabeh-381081242/">
+  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px">
 </div>
 
 <div  align="center">
@@ -50,8 +56,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-> Python       10 hrs          ███████████████████████__   90.00 %
+> Python       10 hrs          ████████████████████_____   80.00 %
 > Java         1 hr            █________________________   5.00 %
-> C Lang       1 hr            █________________________   5.00 %
+> C Lang       3 hr            ████_____________________   15.00 %
 > C++          0 hr            _________________________   0.00 %
 ```
