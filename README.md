@@ -25,7 +25,7 @@
 
 <h3>
 
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/AdolescentAgileCoqui-size_restricted.gif" height = 330px />
+<img align="right" alt="GIF" src="https://media.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif" height = 330px />
 
 -  I’m studying AI and Data Science. 
 -  I’m learning Machine Learning software development.
