@@ -8,13 +8,18 @@
   <a href="https://www.instagram.com/y_musabeh/">
     <img href="https://www.instagram.com/y_musabeh/" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"  width="22px">
     </a>
-  <a href="https://discord.gg/XTW52Kt">
+  <a href="https://linktr.ee/yousef_musabeh">
     <img href="www.linktree.com" src="https://user-images.githubusercontent.com/29517317/105775335-ab313900-5f34-11eb-8ef8-0bfbc1563829.png" width="22px">
     </a>
+  <a href="https://twitter.com/OverpoweredOG_">
     <img href="https://twitter.com/OverpoweredOG_" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" width="22px">
+    </a>
+  <a href="https://twitter.com/OverpoweredOG_">
     <img href="https://www.linkedin.com/in/yousef-musabeh-381081242/" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px">
+    </a>
     
   </p>
+##
 
 <br />
 
