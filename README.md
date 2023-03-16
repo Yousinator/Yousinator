@@ -35,10 +35,6 @@
 -  Ask me about anything, I am happy to help.
   
 </h3>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
   
 ##
 **My Languages (I only speak code language):**  
@@ -58,4 +54,7 @@
 > C Lang       1 hr            ██_______________________   5.00 %
 > C++          0 hr            _________________________   0.00 %
 ```
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
 ##
