@@ -34,7 +34,7 @@
 -  Ask me about anything, I am happy to help.
 </h3>
   
-<footer>
+
 ```**My Languages (I only speak code language):**  
 
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
@@ -52,4 +52,3 @@
 > C Lang       1 hr            ██_______________________   5.00 %
 > C++          0 hr            _________________________   0.00 %
 ```
-</footer>
