@@ -25,7 +25,7 @@
 
 <h3>
 
-<img align="right" alt="GIF" src="https://www.hackread.com/wp-content/uploads/2016/03/artificially-intelligent-hackers-gif.gif?x62286" height = 330px />
+<img align="right" alt="GIF" src="https://www.hackread.com/wp-content/uploads/2016/03/artificially-intelligent-hackers-gif.gif?x62286" height = 340px />
 
 -  I’m studying AI and Data Science. 
 -  I’m learning Machine Learning software development.
