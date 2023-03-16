@@ -33,6 +33,10 @@
 -  "printf(" Code is poetry ")"
 -  Any freelance work? do reach, [email](y.omusabeh@gmail.com) :)
 -  Ask me about anything, I am happy to help.
+  
+  
+  
+  
 
 </h3>
   
