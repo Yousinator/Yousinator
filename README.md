@@ -25,7 +25,7 @@
 
 <h3>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height = 200px />
+<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height = 250px />
 
 -  I’m studying AI and Data Science. 
 -  I’m learning Machine Learning software development.
