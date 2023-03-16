@@ -24,6 +24,7 @@
 
 
 <h3>
+ ##
 <img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="320" />
 
 -  I’m studying AI and Data Science. 
@@ -32,6 +33,7 @@
 -  "printf(" Code is poetry ")"
 -  Any freelance work? do reach, [email](y.omusabeh@gmail.com) :)
 -  Ask me about anything, I am happy to help.
+##
 </h3>
   
 ##
@@ -41,7 +43,7 @@
 <code><img height="30" src="https://i.pinimg.com/originals/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
-##
+
 
 📊 **This is how I spend my time:**
 <!--START_SECTION:waka-->
@@ -52,3 +54,4 @@
 > C Lang       1 hr            ██_______________________   5.00 %
 > C++          0 hr            _________________________   0.00 %
 ```
+##
