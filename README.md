@@ -57,7 +57,7 @@
 ##
 
 
-![Yousinator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousinator&show_icons=true)
+![Yousinator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousinator&show_icons=true&theme=dark)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=github-readme-stats&theme=buefy" />
