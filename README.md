@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p align="center">
+<h2 align="center">
   <a href="https://www.instagram.com/y_musabeh/">
     <img href="https://www.instagram.com/y_musabeh/" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"  width="22px">
     </a>
@@ -18,7 +18,7 @@
     <img href="https://www.linkedin.com/in/yousef-musabeh-381081242/" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px">
     </a>
     
-  </p>
+  </h2>
 
 
 <br />
