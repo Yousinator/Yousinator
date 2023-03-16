@@ -22,7 +22,6 @@
 
 
 
-
 <h3>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 320px width = 300px />
@@ -33,6 +32,7 @@
 -  "printf(" Code is poetry ")"
 -  Any freelance work? do reach, [email](y.omusabeh@gmail.com) :)
 -  Ask me about anything, I am happy to help.
+- Check out my socials!
   
 </h3>
   
