@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Yousinator+🤖....;Nice+to+meet+you!+😆&center=true&size=30">
   </a>
 </h1>
-##
+
 <p align="center">
   <a href="https://www.instagram.com/y_musabeh/">
     <img href="https://www.instagram.com/y_musabeh/" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"  width="22px">
@@ -19,19 +19,19 @@
     </a>
     
   </p>
-##
+
 
 <br />
 
 
-- 🔭 I’m studying AI and Data Science. 
-- 🌱 I’m learning Machine Learning software development.
-- ✨ "There is always one more bug to fix."
-- 💫 "printf(" Code is poetry ")"
-- 💼 any freelance work? do reach, [email](y.omusabeh@gmail.com) :)
-- 💬 ask me about anything, I am happy to help;
+-  I’m studying AI and Data Science. 
+-  I’m learning Machine Learning software development.
+-  "There is always one more bug to fix."
+-  "printf(" Code is poetry ")"
+-  Any freelance work? do reach, [email](y.omusabeh@gmail.com) :)
+-  Ask me about anything, I am happy to help.
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="320" />
   
 
 **My Languages (I only speak code language):**  
