@@ -23,6 +23,7 @@
 
 <br />
 
+<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="320" />
 
 -  I’m studying AI and Data Science. 
 -  I’m learning Machine Learning software development.
@@ -31,7 +32,6 @@
 -  Any freelance work? do reach, [email](y.omusabeh@gmail.com) :)
 -  Ask me about anything, I am happy to help.
 
-<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="320" />
   
 
 **My Languages (I only speak code language):**  
