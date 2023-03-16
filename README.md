@@ -9,7 +9,7 @@
     <img href="https://www.instagram.com/y_musabeh/" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"  width="22px">
     </a>
   <a href="https://discord.gg/XTW52Kt">
-    <img href="https://discord.gg/XTW52Kt" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" width="22px">
+    <img href="www.linktree.com" src="https://user-images.githubusercontent.com/29517317/105775335-ab313900-5f34-11eb-8ef8-0bfbc1563829.png" width="22px">
     </a>
     <img href="https://twitter.com/OverpoweredOG_" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" width="22px">
     <img href="https://www.linkedin.com/in/yousef-musabeh-381081242/" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px">
