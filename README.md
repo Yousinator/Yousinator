@@ -86,4 +86,4 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdifficultornateharlequinbug&psig=AOvVaw2bsrfGi0SB7msiiDPX7wgL&ust=1679124103974000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNiqsvC24v0CFQAAAAAdAAAAABAE" />  
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/DifficultOrnateHarlequinbug-mobile.mp4" />  
