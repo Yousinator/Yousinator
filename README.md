@@ -36,7 +36,7 @@
   
 ***Editors I use:***
 
-<img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda"><img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter"><img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
+<img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda"> <img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode"> <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter"> <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
 
 
 ##
@@ -49,18 +49,7 @@
 
 ***My Languages (I only speak code language):***  
 
-<a align = left>
-<img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c">
-  </a>
-<a align = left>
-<img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" />
-  </a>
-<a align = left>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" />
-  </a>
-<a align = left>
-<img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" />
-  </a>
+<img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" />
 
 📊 **This is how I spend my time:**
 <!--START_SECTION:waka-->
