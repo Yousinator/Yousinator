@@ -36,14 +36,17 @@
 
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 440px width = 320px />  
-
-
-
-  
+ 
 
 # ***My Languages (I only speak code language):***  
 
 <img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" />
+
+
+
+# ***Editors I use***
+
+<img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda"> <img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode"> <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter"> <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
 
 # 📊 **This is how I spend my time:**
 <!--START_SECTION:waka-->
@@ -55,9 +58,6 @@
 > C++          0 hr            _________________________   0.00 %
 ```
 
-# ***Editors I use***
-
-<img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda"> <img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode"> <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter"> <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
 
 # ***Currently learning***
 
