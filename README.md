@@ -86,4 +86,4 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   
-<img align="right" alt="GIF" src="https://i.gifer.com/MQFv.gif" />  
+<img align="right" alt="GIF" src="http://ivis.net/newwebsite/esurvillence/wp-content/uploads/2019/04/footer.gif" />  
