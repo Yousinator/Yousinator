@@ -32,7 +32,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 370px width = 300px />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 420px width = 320px />
   
 # ***Editors I use***
 
@@ -55,7 +55,11 @@
 > C++          0 hr            _________________________   0.00 %
 ```
 
- 
+# ***Currently learning***
+
+<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow"> <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-darkblue?style=for-the-badge&logo=pandas"> <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-lightblue?style=for-the-badge&logo=numpy"> <img alt="PuTorch" src="https://img.shields.io/badge/-Pytorch-white?style=for-the-badge&logo=pytorch">
+
+
 # ***My Humble Stats:***
 
 ![Yousinator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousinator&show_icons=true&theme=dark&hide=prs,issues)
