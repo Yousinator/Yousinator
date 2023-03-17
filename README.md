@@ -30,7 +30,7 @@
 
 <h3>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 320px width = 300px />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 340px width = 300px />
   
 
 -  I’m studying AI and Data Science. 
@@ -45,6 +45,8 @@
   
 ##
 ***My Languages (I only speak code language):***  
+
+
 <a align = center>
 <img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c">
 <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" />
@@ -68,7 +70,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousinator&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
-###***Important repositories:***
+***Important repositories:***
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=FOC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smadi0x86&repo=Java0x01&show_owner=true&theme=dark)](https://github.com/smadi0x86/Java0x01)
