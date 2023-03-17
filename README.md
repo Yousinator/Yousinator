@@ -32,7 +32,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 320px width = 300px />
   
-<img alt="Medium" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" />
+
 -  I’m studying AI and Data Science. 
 -  I’m learning Machine Learning software development.
 -  "There is always one more bug to fix."
@@ -46,10 +46,10 @@
 ##
 **My Languages (I only speak code language):**  
 
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
-<code><img height="30" src="https://i.pinimg.com/originals/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"></code>
+<img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c">
+<img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" />
 
 
 📊 **This is how I spend my time:**
@@ -68,7 +68,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousinator&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
-**Important repositories:**
+###***Important repositories:***
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=FOC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smadi0x86&repo=Java0x01&show_owner=true&theme=dark)](https://github.com/smadi0x86/Java0x01)
