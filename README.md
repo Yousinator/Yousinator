@@ -35,6 +35,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 340px width = 300px />
   
 ***Editors I use:***
+
 <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda">
 <img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode">
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter">
@@ -50,7 +51,6 @@
   
 
 ***My Languages (I only speak code language):***  
-
 
 <a align = left>
 <img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c">
