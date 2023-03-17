@@ -32,7 +32,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 430px width = 320px />  
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 440px width = 320px />  
 
 # ***Editors I use***
 
