@@ -38,7 +38,7 @@
 
 <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda"> <img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode"> <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter"> <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
 
-##
+
   
 
 # ***My Languages (I only speak code language):***  
@@ -55,13 +55,13 @@
 > C++          0 hr            _________________________   0.00 %
 ```
 
-##  
+ 
 # ***My Humble Stats:***
 
 ![Yousinator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousinator&show_icons=true&theme=dark&hide=prs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousinator&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-##
+
 # ***Important repositories:***
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=FOC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
