@@ -30,35 +30,38 @@
 
 
 
-<h3>
+
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 340px width = 300px />
   
+***Editors I use:***
+<img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda">
+<img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode">
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter">
+<img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
 
--  I’m studying AI and Data Science. 
--  I’m learning Machine Learning software development.
--  "There is always one more bug to fix."
--  "printf(" Code is poetry ")"
+
+##
 -  Any freelance work? do reach, [email](y.omusabeh@gmail.com) :)
 -  Ask me about anything, I am happy to help.
 - Check out my socials!
   
-</h3>
-  
 ##
+  
+
 ***My Languages (I only speak code language):***  
 
 
-<a align = center>
+<a align = left>
 <img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c">
   </a>
-<a align = center>
+<a align = left>
 <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" />
   </a>
-<a align = center>
+<a align = left>
   <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" />
   </a>
-<a align = center>
+<a align = left>
 <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" />
   </a>
 
