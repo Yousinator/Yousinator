@@ -5,11 +5,14 @@
 </h1>
 
 <h2 align="center">
+  <a href="https://github.com/Yousinator" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/y_musabeh/" target="_blank">
-    <img href="https://www.instagram.com/y_musabeh/" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"  width="22px">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blueviolet?style=for-the-badge&logo=instagram"  width="22px">
     </a>
   <a href="https://linktr.ee/yousef_musabeh" target="_blank">
-    <img href="www.linktree.com" src="https://user-images.githubusercontent.com/29517317/105775335-ab313900-5f34-11eb-8ef8-0bfbc1563829.png" width="22px">
+    <img alt="Linktree" src="https://img.shields.io/badge/-Linktree-black?style=for-the-badge&logo=linktree" width="22px">
     </a>
   <a href="https://twitter.com/OverpoweredOG_" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
@@ -17,9 +20,6 @@
   <a href="https://www.linkedin.com/in/yousef-musabeh-381081242/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-  <a href="https://github.com/Yousinator" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
   <a href="https://medium.com" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
