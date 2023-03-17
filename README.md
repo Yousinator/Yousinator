@@ -36,10 +36,7 @@
   
 ***Editors I use:***
 
-<img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda">
-<img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode">
-<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter">
-<img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
+<img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda"><img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter"><img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
 
 
 ##
