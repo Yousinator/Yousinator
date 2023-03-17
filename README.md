@@ -38,8 +38,24 @@
 
 <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-black?style=for-the-badge&logo=anaconda"> <img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode"> <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter"> <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
 
-
 ##
+  
+
+***My Languages (I only speak code language):***  
+
+<img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" />
+
+📊 **This is how I spend my time:**
+<!--START_SECTION:waka-->
+
+```text
+> Python       10 hrs          ████████████████████_____   80.00 %
+> Java         3 hr            ████_____________________   15.00 %
+> C Lang       1 hr            ██_______________________   5.00 %
+> C++          0 hr            _________________________   0.00 %
+```
+##
+
 -  Any freelance work? do reach, [email](y.omusabeh@gmail.com) :)
 -  Ask me about anything, I am happy to help.
 - Check out my socials!
