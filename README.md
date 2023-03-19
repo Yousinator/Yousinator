@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Yousinator+🤖....;Nice+to+meet+you!+😆&center=true&size=30&color=F75407">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Yousinator+🤖....;Nice+to+meet+you!+😆;Check+out+my+latest+work;smadi0x86/Java0x01&center=true&size=30&color=F75407">
   </a>
 </h1>
 
@@ -38,7 +38,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 440px width = 320px />  
  
 
-# ***My Languages (I only speak code language):***  
+# ***My Languages***  
 
 <img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" />
 
