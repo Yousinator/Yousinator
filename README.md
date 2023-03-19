@@ -40,7 +40,7 @@
 
 # ***My Languages***  
 
-<img alt="C" href="https://github.com/Yousinator/FOC" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" />
+<a href="https://github.com/Yousinator/FOC" ><img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"></a> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" />
 
 
 
