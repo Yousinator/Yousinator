@@ -25,7 +25,7 @@
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
     </a>
   
-  <a href="https://medium.com" target="_blank">
+  <a href="https://medium.com/@y.omusabeh/about" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
     
@@ -74,6 +74,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=Java&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smadi0x86&repo=Java0x01&show_owner=true&theme=dark)](https://github.com/smadi0x86/Java0x01)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=Data-Science&show_owner=true&theme=dark)](https://github.com/smadi0x86/Java0x01)
 
 ##
 
