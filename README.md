@@ -78,7 +78,7 @@
 
 ##
 
--  Any freelance work? You can reach me via [email](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXDztHdmNZgbsLhstdSVKfGbjNdzDRsmGTZDqPJTBqKLCDTgvkhscvpPKXQlXcscSBsGd):)
+-  Any freelance work? You can reach me via [email](mailto:y.omusabeh@gmail.com):)
 -  Ask me about anything, I am happy to help.
 -  Check out my socials above!
   
