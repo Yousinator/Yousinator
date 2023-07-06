@@ -72,10 +72,10 @@
 
 # ***Important repositories:***
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=Java&theme=dark)](https://github.com/Yousinator/FOC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=DMV&theme=dark)](https://github.com/Yousinator/DMV)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=Data-Science&show_owner=true&theme=dark)](https://github.com/Yousinator/Data-Science)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smadi0x86&repo=Java0x01&show_owner=true&theme=dark)](https://github.com/smadi0x86/Java0x01)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=Math-For-Computing&theme=dark)](https://github.com/Yousinator/Math-For-Computing)
 ##
 
 -  Any freelance work? You can reach me via [email](mailto:y.omusabeh@gmail.com):)
