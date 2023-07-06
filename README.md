@@ -78,7 +78,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=Math-For-Computing&theme=dark)](https://github.com/Yousinator/Math-For-Computing)
 ##
 
--  Check out my [Portifolio](yousinator.github.io)
+-  Check out my Portifolio: yousinator.github.io
 -  Any freelance work? You can reach me via [email](mailto:y.omusabeh@gmail.com):)
 -  Ask me about anything, I am happy to help.
 -  Check out my socials above!
