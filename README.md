@@ -40,8 +40,7 @@
 
 # ***My Languages***  
 
-<a href="https://github.com/Yousinator/FOC" ><img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"></a> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=openjdk" />
-
+<a href="https://github.com/Yousinator/FOC" ><img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"></a> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=openjdk" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript" />
 
 
 # ***Editors I use***
@@ -52,10 +51,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-> Java       10 hrs          ████████████████████_____   80.00 %
-> Python         3 hr            ████_____________________   15.00 %
-> C Lang       1 hr            ██_______________________   5.00 %
-> C++          0 hr            _________________________   0.00 %
+> Java       10 hrs        ████████████████████_____   16.67 %
+> Python     21 hr         ████_____________________   35.00 %
+> C Lang     4 hr          ██_______________________   6.60 %
+> TypeScript 25 hrs        _________________________   41.67 %
 ```
 
 
