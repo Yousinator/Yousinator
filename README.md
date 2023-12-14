@@ -29,7 +29,7 @@
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   
-  <a href="https://medium.com/@y.omusabeh/about" target="_blank">
+  <a href="https://yousinator.github.io/" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/my%20portfolio-orange?&style=for-the-badge&logo=" />
   </a>
 
@@ -44,7 +44,7 @@
 
 # ***My Languages***  
 
-<a href="https://github.com/Yousinator/FOC" ><img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"></a> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=openjdk" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript" />
+<a href="https://github.com/Yousinator/FOC" ><img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"></a> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=openjdk" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 
 
 # ***Editors I use***
