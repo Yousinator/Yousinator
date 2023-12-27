@@ -80,7 +80,7 @@
 ##
 
 -  Check out my Portifolio: yousinator.github.io
--  Any freelance work? You can reach me via [email](mailto:y.omusabeh@gmail.com):)
+-  Any freelance work? You can reach me via [email](https://yousinator.github.io/#contact):)
 -  Ask me about anything, I am happy to help.
 -  Check out my socials above!
   
