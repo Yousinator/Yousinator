@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Yousinator+🤖....;Nice+to+meet+you!+😆;Check+out+my+latest+work;smadi0x86/Java0x01&center=true&size=30&color=F75407">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Yousinator+🤖....;Nice+to+meet+you!+😆;Check+out+my+latest+work;Yousinator/dmv-system&center=true&size=30&color=F75407">
   </a>
 </h1>
 
@@ -75,9 +75,7 @@
 
 # ***Important repositories:***
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=dmv-system&theme=dark)](https://github.com/Yousinator/DMV)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=Data-Science&show_owner=true&theme=dark)](https://github.com/Yousinator/Data-Science)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smadi0x86&repo=Java0x01&show_owner=true&theme=dark)](https://github.com/smadi0x86/Java0x01)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=dmv-system&theme=dark)](https://github.com/Yousinator/dmv-system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=Math-For-Computing&theme=dark)](https://github.com/Yousinator/Math-For-Computing)
 ##
 
