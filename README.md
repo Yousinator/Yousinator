@@ -63,7 +63,7 @@
 
 # ***Currently learning***
 
-<img alt="MLFlow" src="https://img.shields.io/badge/-MLFlow-white?style=for-the-badge&logo=mlflow"> <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow">  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-white?style=for-the-badge&logo=terraform" /> <img alt="PyTorch" src="https://img.shields.io/badge/-Pytorch-white?style=for-the-badge&logo=pytorch">
+<img alt="MLFlow" src="https://img.shields.io/badge/-MLFlow-white?style=for-the-badge&logo=mlflow"> <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow">  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-white?style=for-the-badge&logo=terraform" /> <img alt="PyTorch" src="https://img.shields.io/badge/-Pytorch-white?style=for-the-badge&logo=pytorch"> <img alt="CUDA" src="https://img.shields.io/badge/-CUDA-green?style=for-the-badge&logo=nvidea"> 
 
 
 # ***My Humble Stats:***
