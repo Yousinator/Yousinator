@@ -75,7 +75,7 @@
 # ***Important repositories:***
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=dmv-system&theme=dark)](https://github.com/Yousinator/dmv-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=Math-For-Computing&theme=dark)](https://github.com/Yousinator/Math-For-Computing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repoPrismaML&theme=dark)](https://github.com/Yousinator/PrismaML)
 ##
 
 -  Check out my Portifolio: yousinator.github.io
