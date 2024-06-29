@@ -53,17 +53,6 @@
 
 <img alt="Sublime" src="https://img.shields.io/badge/-Sublime-black?style=for-the-badge&logo=sublime"> <img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode"> <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter"> <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
 
-# 📊 **This is how I spend my time:**
-<!--START_SECTION:waka-->
-
-```text
-> Java       10 hrs        ███______________________   16.67 %
-> Python     21 hr         ███████__________________   35.00 %
-> C Lang     4 hr          █________________________   6.60 %
-> TypeScript 25 hrs        ███████████______________   41.67 %
-```
-
-
 # ***Currently learning***
 
 <img alt="MLFlow" src="https://img.shields.io/badge/-MLFlow-white?style=for-the-badge&logo=mlflow"> <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow">  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-white?style=for-the-badge&logo=terraform" /> <img alt="PyTorch" src="https://img.shields.io/badge/-Pytorch-white?style=for-the-badge&logo=pytorch"> <img alt="CUDA" src="https://img.shields.io/badge/-CUDA-green?style=for-the-badge&logo=nvidea"> 
