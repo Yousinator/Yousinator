@@ -58,22 +58,21 @@
 <img alt="MLFlow" src="https://img.shields.io/badge/-MLFlow-white?style=for-the-badge&logo=mlflow"> <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow">  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-white?style=for-the-badge&logo=terraform" /> <img alt="PyTorch" src="https://img.shields.io/badge/-Pytorch-white?style=for-the-badge&logo=pytorch"> <img alt="CUDA" src="https://img.shields.io/badge/-CUDA-green?style=for-the-badge&logo=nvidea"> 
 
 
-# ***My Humble Stats:***
+# ***Stats:***
 
 ![Yousinator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousinator&show_icons=true&theme=dark&hide=prs,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousinator&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# ***Important repositories:***
+# ***Pinned Repositories:***
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=PrismaML&theme=dark)](https://github.com/Yousinator/PrismaML)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=MarioMaster&theme=dark)](https://github.com/Yousinator/MarioMaster)
+
 ##
 
 -  Check out my Portifolio: yousinator.github.io
 -  Any freelance work? You can reach me via [website contact section](https://yousinator.github.io/#contact):)
 -  Ask me about anything, I am happy to help.
--  Check out my socials above!
   
 ##
 
