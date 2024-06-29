@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Yousinator+🤖....;MLOps+Engineer;AI+Engineer;Certified+Data+Scientist+Associate;Check+out+my+latest+work;Yousinator/dmv-system&center=true&size=30&color=149414">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Yousinator+🤖....;AI+Engineer;Certified+Data+Scientist;Check+out+my+latest+work;Yousinator/PrismaML&center=true&size=30&color=149414">
   </a>
 </h1>
 
@@ -35,8 +35,12 @@
 
   </h2>
 
+# **Certifications**
 
+<h2 align="center">
+<img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> ![data_scientist_associate_banner](https://github.com/Yousinator/Yousinator/assets/113384687/bfbafa60-f3a6-4bf3-802a-c126d64f44f8)
 
+  </h2>
 
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 440px width = 320px />  
