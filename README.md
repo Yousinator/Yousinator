@@ -38,7 +38,8 @@
 # **Certifications**
 
 <h2 align="center">
-<img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> ![data_scientist_associate_banner](https://github.com/Yousinator/Yousinator/assets/113384687/bfbafa60-f3a6-4bf3-802a-c126d64f44f8)
+<img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS - Badge" src="https://github.com/Yousinator/Yousinator/assets/113384687/3e9b2467-c6ef-4517-a48c-eae7e8ae97c9">
+
 
   </h2>
 
