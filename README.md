@@ -36,7 +36,8 @@
   </h2>
 
 <h2 align="center">
-<img width="98" alt="DS - Badge" src="https://github.com/Yousinator/Yousinator/assets/113384687/3e9b2467-c6ef-4517-a48c-eae7e8ae97c9"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686">
+<img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686">
+
 
 
   </h2>
