@@ -39,15 +39,13 @@
   
 <img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/b8969194-472a-497f-9078-07823a045497">
 
-
-
   </h2>
 
-## Languages
+# Languages
 
 <img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"></a> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=openjdk" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 
-## Currently learning
+# Currently learning
 
 <img alt="MLFlow" src="https://img.shields.io/badge/-MLFlow-white?style=for-the-badge&logo=mlflow"> <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow">  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-white?style=for-the-badge&logo=terraform" /> <img alt="PyTorch" src="https://img.shields.io/badge/-Pytorch-white?style=for-the-badge&logo=pytorch"> <img alt="CUDA" src="https://img.shields.io/badge/-CUDA-green?style=for-the-badge&logo=nvidea"> 
 
@@ -56,9 +54,5 @@
 -  Check out my Portifolio: yousinator.github.io
 -  Any freelance work? You can reach me via [website contact section](https://yousinator.github.io/#contact):)
 -  Ask me about anything, I am happy to help.
-  
-##
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Yousinator/Yousinator.github.io/main/public/profileFooter.svg" />
-<p align="center">  
 <img align="right" alt="GIF" src="http://ivis.net/newwebsite/esurvillence/wp-content/uploads/2019/04/footer.gif"/>  
