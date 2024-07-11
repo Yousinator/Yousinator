@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Yousinator+🤖....;AI+Engineer;Certified+Data+Scientist;Check+out+my+latest+work;Yousinator/PrismaML&center=true&size=30&color=149414">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yousinator+🤖....;Certified+AI+Engineer;Certified+Data+Scientist;My+Latest+work;Yousinator/PrismaML&center=true&size=30&color=FFAE42">
   </a>
 </h1>
 
@@ -54,17 +54,6 @@
 ## Currently learning
 
 <img alt="MLFlow" src="https://img.shields.io/badge/-MLFlow-white?style=for-the-badge&logo=mlflow"> <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow">  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-white?style=for-the-badge&logo=terraform" /> <img alt="PyTorch" src="https://img.shields.io/badge/-Pytorch-white?style=for-the-badge&logo=pytorch"> <img alt="CUDA" src="https://img.shields.io/badge/-CUDA-green?style=for-the-badge&logo=nvidea"> 
-
-
-# ***Stats:***
-
-![Yousinator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousinator&show_icons=true&theme=dark&hide=prs,issues)
-
-
-# ***Pinned Repositories:***
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=PrismaML&theme=dark)](https://github.com/Yousinator/PrismaML)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yousinator&repo=MarioMaster&theme=dark)](https://github.com/Yousinator/MarioMaster)
 
 ##
 
