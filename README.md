@@ -37,7 +37,8 @@
 
 <h2 align="center">
   
-<img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/febf8534-eeb0-4846-bddf-f7016727c1c3">
+<img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/b8969194-472a-497f-9078-07823a045497">
+
 
 
   </h2>
@@ -46,15 +47,11 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/23/a9/ca/23a9caf9229d9a4be0705d61730fabda.gif" height = 440px width = 320px />  
  
 
-# ***My Languages***  
+## Languages
 
 <img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"></a> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=openjdk" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 
-# ***Editors I use***
-
-<img alt="Sublime" src="https://img.shields.io/badge/-Sublime-black?style=for-the-badge&logo=sublime"> <img alt="VS code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode"> <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter"> <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse">
-
-# ***Currently learning***
+## Currently learning
 
 <img alt="MLFlow" src="https://img.shields.io/badge/-MLFlow-white?style=for-the-badge&logo=mlflow"> <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow">  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-white?style=for-the-badge&logo=terraform" /> <img alt="PyTorch" src="https://img.shields.io/badge/-Pytorch-white?style=for-the-badge&logo=pytorch"> <img alt="CUDA" src="https://img.shields.io/badge/-CUDA-green?style=for-the-badge&logo=nvidea"> 
 
