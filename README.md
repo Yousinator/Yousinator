@@ -1,4 +1,4 @@
-<h1 align="center">
+aaaa<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Yousinator;Certified+AI+Engineer;Certified+Data+Scientist;My+Latest+work;Yousinator/PrismaML&center=true&size=30&color=FFAE42">
   </a>
@@ -37,7 +37,8 @@
 
 <h2 align="center">
   
-<img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/a28e7fd8-e06b-49ea-b91e-f0a5f52b03c4">
+<img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/f664af12-01db-4903-9c69-69115e9c5a67">
+
 
 
   </h2>
