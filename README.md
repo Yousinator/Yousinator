@@ -5,10 +5,6 @@
 </h1>
 
 <h2 align="center">
-  <a href="https://github.com/Yousinator" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  
   <a href="https://www.linkedin.com/in/yousef-musabeh/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -36,12 +32,10 @@
   </h2>
 
 <h2 align="center">
-  
-<img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/f664af12-01db-4903-9c69-69115e9c5a67">
 
+<img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/f664af12-01db-4903-9c69-69115e9c5a67"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/291374e6-b72b-41b0-9a6a-8bcbff9689da">
 
-
-  </h2>
+</h2>
 
 # Languages
 
