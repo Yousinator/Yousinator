@@ -33,13 +33,13 @@
 
 <h2 align="center">
 
-<img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/f664af12-01db-4903-9c69-69115e9c5a67"> <img width="120" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/9c6d8dfb-c871-490c-9e66-e31d71fd09c6"> <img width="120" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/d856d347-cc23-49d7-be1f-2098d44bdc50">
+<img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/f664af12-01db-4903-9c69-69115e9c5a67"> <img width="120" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/9c6d8dfb-c871-490c-9e66-e31d71fd09c6"> <img width="120" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/7cfe9266-348c-4861-8182-6e652a98a2eb">
 
 </h2>
 
 # Languages
 
-<img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"></a> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=openjdk" /> <img alt="TypeScript" src="https://github.com/user-attachments/assets/9f729dde-d902-415a-b93c-962f2851ab89" />
+<img alt="C" src="https://img.shields.io/badge/-Language-blue?style=for-the-badge&logo=c"></a> <img alt="Python" src="https://img.shields.io/badge/-Python%20-yellow?style=for-the-badge&logo=python" /> <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=openjdk" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 
 # Currently learning
 
