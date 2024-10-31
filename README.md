@@ -33,7 +33,8 @@
 
 <h2 align="center">
 
-<img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/4dce9427-4395-462a-8cca-c8175d9e4baa"> <img width="120" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/9c6d8dfb-c871-490c-9e66-e31d71fd09c6"> <img width="120" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/7cfe9266-348c-4861-8182-6e652a98a2eb"> <img width="120" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/45cbf269-2d85-4c33-8df7-bcd5e22375f5">
+<img width="98" alt="DS Associate - badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/949d363d-3416-49f8-b6af-45e1b6c13b22"> <img width="98" alt="DS - Badge with outline" src="https://github.com/Yousinator/Yousinator/assets/113384687/4950d7d2-bf04-4b7f-8b1a-6647c1e3a686"> <img width="98" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/2a55a241-c5c3-4e17-b91c-26f56c7ac350"> <img width="120" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/9c6d8dfb-c871-490c-9e66-e31d71fd09c6"> <img width="120" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/7cfe9266-348c-4861-8182-6e652a98a2eb"> <img width="120" alt="DS Associate - badge with outline" src="https://github.com/user-attachments/assets/45cbf269-2d85-4c33-8df7-bcd5e22375f5">
+
 
 
 
