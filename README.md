@@ -51,8 +51,8 @@
 
 ##
 
--  Check out my Portifolio: yousinator.github.io
--  Any freelance work? You can reach me via [My Website](https://yousinator.tech):)
+-  Check out my [My Blog](https://yousinator.tech)
+-  Any freelance work? You can reach me via [My Website](https://yousinator.tech) :)
 -  Ask me about anything, I am happy to help.
 
 ##
