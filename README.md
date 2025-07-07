@@ -52,7 +52,7 @@
 ##
 
 -  Check out my Portifolio: yousinator.github.io
--  Any freelance work? You can reach me via [website contact section](https://yousinator.github.io/#contact):)
+-  Any freelance work? You can reach me via [My Website](https://yousinator.tech):)
 -  Ask me about anything, I am happy to help.
 
 <img align="right" alt="GIF" src="http://ivis.net/newwebsite/esurvillence/wp-content/uploads/2019/04/footer.gif"/>  
