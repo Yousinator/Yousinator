@@ -55,4 +55,4 @@
 -  Any freelance work? You can reach me via [My Website](https://yousinator.tech):)
 -  Ask me about anything, I am happy to help.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif"/>  
+<img height=100 align="right" alt="GIF" src="https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif"/>  
