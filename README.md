@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yousinator;Certified+AI+Engineer;Certified+ML+Engineer;Certified+GenAI+Professional&center=true&size=30&color=AA336A">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yousinator;Certified+AI+Engineer;Certified+ML+Engineer;GenAI+Professional&center=true&size=30&color=AA336A">
   </a>
 </h1>
 
