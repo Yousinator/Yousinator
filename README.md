@@ -25,7 +25,7 @@
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   
-  <a href="https://yousinator.github.io/" target="_blank">
+  <a href="https://yousinator.tech/" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Portfolio-orange?&style=for-the-badge&logo=" />
   </a>
 
